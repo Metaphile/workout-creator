@@ -1,0 +1,4 @@
+.DS_Store
+.venv
+out
+*.blend1
