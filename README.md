@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png "Screenshot")
+
 # Requirements
 
 - Blender
